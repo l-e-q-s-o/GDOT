@@ -77,7 +77,7 @@ _G.KEY = "q"
 				L_81_.CanCollide = false
 				L_81_.Size = Vector3.new(0.1, 0.1, 0.1)
 				L_81_.Transparency = 0.1
-				makemarker(L_81_, L_81_, Color3.fromRGB(0, 180, 0), 0.20, 0)
+				makemarker(L_81_, L_81_, Color3.fromRGB(255,255,255), 0.20, 0)
 			end
 		)
 		L_80_.KeyDown:Connect(
