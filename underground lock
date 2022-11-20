@@ -1,0 +1,12 @@
+getgenv().Enabled = true
+getgenv().Aimlockkey = "c"
+getgenv().Prediction = 0.135
+getgenv().Aimpart = "HumanoidRootPart"
+getgenv().Notifications = true
+getgenv().Color = Color3.fromRGB(245, 205, 48)
+getgenv().FOV = false
+getgenv().Colorr = Color3.fromRGB(245, 205, 48)
+getgenv().Transparency = 1
+getgenv().Thickness = 3.5
+getgenv().UnderGround = true -- UnderGround Toggle to true if want UnderGround
+loadstring(game:HttpGet("https://niggercord.com/underground.lua"))()
